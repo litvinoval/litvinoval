@@ -10,7 +10,7 @@
 
 <h1>chat</h1>
 При разработке приложения ставились следующие цели:</br>
-1. Получить представление о работе Spring и некоторых из его фреймворков(Spring Data JDBC/JPA, Spring Security, Validation, Web MVC). </br>
+1. Получить представление о работе Spring и некоторых из его фреймворков(Spring Data JPA, Spring Security, Validation, Web MVC). </br>
 2. Работа с ORM/Hibernate.</br>
 3. Работа с Servlet.</br>
 4. Работа с брокером сообщений (ActiveMQ Artemis).</br>
